@@ -1,83 +1,21 @@
-My Portfolio
+# 💫 About Me:
+ 👋 About Me<br><br>🔭 I’m currently working on building full-stack applications with Generative AI models.<br><br>🤝 I’m looking to collaborate on open-source projects involving Computer Vision and NLP.<br><br>🌱 I’m currently learning advanced ML techniques and cloud deployment strategies.<br><br>💬 Ask me about anything related to Python, FastAPI, Flask, and Generative AI.<br><br>⚡ Fun fact: I love to solve complex coding problems in my free time!
 
-An aspiring Master of Computer Applications student with a passion for Generative AI and full-stack development.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mishal-ks/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishal444583@gmail.com) 
 
-Welcome to my personal GitHub portfolio! Here you'll find a collection of my projects, highlighting my skills in AI/ML, computer vision, and building full-stack applications. I am actively seeking to apply advanced AI/ML techniques to solve complex problems and create innovative solutions.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mishal4583&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mishal4583&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mishal4583&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-  🚀 Projects
-
-Here are some of the key projects I've built, showcasing my ability to move from concept to deployment.
-
-🎙️ AI-Powered Speech Recognition System
-*Generative AI & FastAPI*
-
-Engineered a robust, full-stack web application for real-time and batch speech-to-text transcription. This system integrates `faster-whisper` (a Whisper ASR model) for accurate, multilingual transcription from live microphone streams and uploaded audio files (with intelligent chunking). The application is presented within a sleek black & gold user interface.
-
-* **Key Features:** Real-time & batch transcription, `faster-whisper` integration, multilingual support, intelligent audio chunking, FastAPI backend.
-
-📝 AI-Powered Text Summarizer & Sentiment Analyzer
-*Flask, Hugging Face Transformers & NLTK*
-
-Developed a full-stack web application for intelligent text processing, combining abstractive summarization with sentiment analysis. This project features robust long text handling via chunking, an NLTK-based extractive fallback, and a responsive, monochromatic "glassmorphism" UI. The system is optimized for performance with model caching and asynchronous processing.
-
-* **Key Features:** Abstractive summarization, sentiment analysis, long text handling, NLTK integration, Flask backend, asynchronous processing, model caching.
-
-🤖 Mentra AI – Personalized Learning Assistant
-*Generative AI & FastAPI*
-
-A lightweight AI assistant designed for personalized learning. This project features a fine-tuned **GPT-2** model with a **FastAPI** backend and a futuristic HTML/CSS user interface. It demonstrates my ability to enable secure, real-time prompt generation with local `.safetensors` model loading for offline, private inference.
-
-* **Key Features:** Fine-tuned GPT-2 model, FastAPI backend, local model loading, CORS-enabled API, interactive frontend, Hugging Face Transformers integration.
-
-🖼️ Image Generation with Pre-trained Models
-*Generative AI & Flask*
-
-A web application built with **Flask** for real-time image generation using popular **Stable Diffusion** models. This project integrates prompt-based inference with features like history tracking, asynchronous generation, and live usage statistics.
-
-* **Key Features:** Stable Diffusion integration (Realisian, Waifu, OrangeMix), Flask backend, AJAX-based interactions, asynchronous processing, HTML/CSS UI.
-
-📝 AI-Powered Hybrid Text Generator
-*Hybrid AI & Flask*
-
-A full-stack web app that combines traditional **Markov Chains** with **GPT-2** to generate multi-genre text. The application allows for real-time generation with output customization, interactive n-gram analysis, and a responsive **Tailwind CSS** UI.
-
-* **Key Features:** Hybrid Markov Chain and GPT-2 models, Flask backend, async processing, model caching, JSON-based persistence, Tailwind CSS.
-
-🏙️ Pix2Pix Image-to-Image Translation
-*Computer Vision & GANs*
-
-An implementation of a **Conditional GAN** using **U-Net** and **PatchGAN** to translate architectural maps into realistic building facades. Trained on the CMP Facades dataset, this project highlights my understanding of adversarial loss and L1 loss for image enhancement.
-
-* **Key Features:** Conditional GAN, U-Net, PatchGAN, adversarial and L1 loss, Google Colab-based training.
-
-🎨 Neural Style Transfer Web App
-*Computer Vision & Streamlit*
-
-A user-friendly web application built with **Streamlit** for real-time style transfer. It utilizes a pre-trained stylization model from **TensorFlow Hub** to allow users to upload content and style images and download the stylized output.
-
-* **Key Features:** Streamlit framework, TensorFlow Hub, modular API design, user uploads, downloadable outputs.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mishal4583&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mishal4583&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🛠️ Technical Skills
-
-* **Programming Languages:** Python, Java, C++, C, SQL, JavaScript, HTML/CSS
-* **AI/ML Technologies:** GPT-2, Stable Diffusion, GANs, Transformers, NumPy, TensorFlow, OpenCV, Pillow, Hugging Face
-* **Frameworks & Tools:** FastAPI, Flask, Streamlit, React, Flutter, Git, Google Colab, Android Development
-* **Languages:** Malayalam (Native), English (Fluent)
-
----
-🎓 Education
-
-* **JAIN (Deemed-to-be University)**, Bengaluru, KA
-    * Master of Computer Applications | 2024 – 2026
-* **Alphonsa Arts and Science College**, Wayanad, KL
-    * Bachelor of Computer Applications | 2021 – 2024
-
----
-
-Feel free to connect with me on [(https://www.linkedin.com/in/mishal-ks-5611a5233/)] or explore my projects to see my skills in action!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
