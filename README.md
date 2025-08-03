@@ -80,4 +80,4 @@ A user-friendly web application built with **Streamlit** for real-time style tra
 
 ---
 
-Feel free to connect with me on [LinkedIn](YOUR_LINKEDIN_PROFILE_URL) or explore my projects to see my skills in action!
+Feel free to connect with me on [(https://www.linkedin.com/in/mishal-ks-5611a5233/)] or explore my projects to see my skills in action!
